@@ -8,7 +8,7 @@ function obtenerMayor(x, y) {
   if(x < y) {
     return y;
   } else {
-    return x;
+    return x; 
   }
 }
 
