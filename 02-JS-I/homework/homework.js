@@ -99,7 +99,7 @@ function mayorQueCincuenta(num) {
     return false;
   }
 }
-
+// Rodri
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
