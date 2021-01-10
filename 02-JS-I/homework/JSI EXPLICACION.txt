@@ -1,0 +1,17 @@
+Variables: Las variables es un tipo de dato que se utiliza en los lenguajes de programacion, dichas variables almacenan valores como lo seria un vaso que almacena agua. El vaso seria la variable y el agua el valor.
+ Asi como el vaso ocupa espacio, las variables ocupan memoria en un sistema.
+
+Strings: Los strings perteneces tambien es un tipo de dato en la programacion, la cual se caracteriza por contener un texto o una palabra, encerrado entre dos comillas ("").
+Para el usuario los strings pueden ser palabras o textos, pero para el interprete del lenguaje, es una cadena de caracteres. La palabra "Hola" es una cadena de 4 caracteres, que serian las letras de dicha palabra.
+
+Funciones: Una funcion en programacion, es un bloque de codigo que se ejecuta cuando este mismo lo requiere, y en determinadas ocasiones puede devolver un valor, que puede entenderse como un resultado. 
+Las funciones tambien pueden estar conformadas por ARGUMENTOS, recibe variables que luego va a utilizar para realizar una accion.
+Por ejemplo, tenemos una funcion llamada sandwich, esta funcion va a recibir como argumentos las variables pan, jamos, queso, mayonesa. Dentro de la funcion se va a ejecutar un codigo que en este caso seria la preparacion del sandwich
+y el resultado terminaria siendo un sanwdwich ya listo, el resultado de una funcion se consigue utilizando la palabra reservada RETURN que le ordena a dicha funcion devolver un valor o resultado. 
+
+Declaraciones If: Las declaraciones if, pertenecen a un grupo llamado controles de flujo, que controlan la ejecucion del codigo.
+Estas declaraciones podrian funcionar como lo haria un semaforo. Si el semaforo esta en verde, el vehiculo puede avanzar, si esta en color rojo tiene que detenerse. En las declaraciones tienen que cumplirse condiciones para que el codigo
+realice determinada funcion, en este caso el color del semaforo seria la condicion, dependiendo de en que color este va a ser la funcion que va a tomar el vehiculo.
+
+Valores Booleanos: Un Booleano es un tipo de dato que representa el estado de un valor. Los Booleanos tienen dos estados, true o false, en binario tambien conocido como 0 o 1. Por ejemplo, si el vaso contiene agua, el estado del Booleano en esa variable
+seria True, ya que el valor agua esta existe en el vaso, pero si preguntamos si en el vaso hay Coca Cola, el estado del Booleano seria False, ya que el vaso no contiene dicho valor. 
